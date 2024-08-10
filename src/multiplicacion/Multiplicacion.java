@@ -28,6 +28,7 @@ public class Multiplicacion {
             double multiplicacion = numero1 * numero2;
             
             System.out.println("La multiplicación de " + numero1 + " y " + numero2 + " es: " + multiplicacion);
+            System.out.print("Gracias por tu atencion ");
         }
     }
     
