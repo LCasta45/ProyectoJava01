@@ -18,6 +18,7 @@ public class Multiplicacion {
      */
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
+            System.out.println("Este es un mensaje nuevo");
             System.out.print("Ingrese el primer número: ");
             double numero1 = scanner.nextDouble();
             
